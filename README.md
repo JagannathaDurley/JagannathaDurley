@@ -4,8 +4,8 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](j.v.durley@gmail.com)
-[![linkedin](https://img.shields.io/badge/%3CSUpport%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/)
-
+[![support](https://img.shields.io/badge/SUPPORT-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8mGA7KFyWg/)
+[![invite](https://img.shields.io/badge/ADD SPY CRABSTER-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=972871021382238228&permissions=2201414992&scope=bot%20applications.commands/)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Python
