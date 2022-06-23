@@ -4,8 +4,6 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](j.v.durley@gmail.com)
-[![support](https://img.shields.io/badge/SUPPORT-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8mGA7KFyWg/)
-[![website](https://img.shields.io/badge/SPYCRABSTER-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://spycrabster.tk/)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, Python
@@ -16,7 +14,7 @@ I'm  a developer, who codes things in his spare time! I particually enjoy coding
 
 
 ## 📖 More Information
-👩‍💻 I'm currently working on Spy Crabster, an open source Discord JS Bot.
+👩‍💻 I'm currently working on Weave, an open source Discord JS Bot.
 
 🧠 I'm currently learning HTML & CSS.
 
