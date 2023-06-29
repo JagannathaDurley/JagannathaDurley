@@ -1,5 +1,5 @@
 
-# Hi, I'm Jag! 👋
+# Hi, I'm rrm! 👋
 
 
 ## 🔗 Links
@@ -10,17 +10,17 @@ Javascript, HTML, CSS, Python
 
 
 ## 🚀 About Me
-I'm  a developer, who codes things in his spare time! I particually enjoy coding in  Python, however I have recently been coding in JS and Node JS, using the Discord JS Library.
+Heya, I'm a developer, who codes things in his free time! I particually enjoy coding in Python, however I am best in Node JS, where I have worked with React, Next JS, Express and Discord.JS
 
 
 ## 📖 More Information
-👩‍💻 I'm currently working on Weave, an open source Discord JS Bot.
+👩‍💻 I'm currently working on Fluid Panel, a close source custom billing panel which intergrates with Sripe <onthly billing and pterodactyl.
 
-🧠 I'm currently learning HTML & CSS.
+🧠 I'm currently learning Next JS.
 
-🤔 I'm looking for help with coding websites.
+🤔 I'm currently not looking for help :)
 
-💬 Ask me about Discord JS and Java Script!
+💬 Ask me about anything!
 
 📫 How to reach me j.v.durley@gmail.com
 
